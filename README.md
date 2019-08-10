@@ -1,2 +1,2 @@
-# rizzopy
-A website to learn some frontend coding
+# rizzo_music
+An attempt at creating a mac music management system, using python.
